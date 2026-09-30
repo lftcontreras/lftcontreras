@@ -21,6 +21,12 @@ Também participo de pesquisa sobre desenvolvimento regional no Centro-Oeste, no
 - Indicadores socioeconômicos e desenvolvimento regional.
 - Finanças públicas e gestão pública.
 
+## Projetos
+
+### [Cashback tributário: demonstração reproduzível](projetos/cashback-demo/README.md)
+
+Exemplo didático em Python com dez grupos de renda sintéticos, gráfico, tabela de resultados e testes. Explora a relação entre tributação do consumo e devolução focalizada. Não utiliza a POF nem reproduz resultados da dissertação.
+
 ## Formação complementar selecionada
 
 - **Python básico, lógica de programação e modelagem de dados** — Fundação Bradesco, 2022.
