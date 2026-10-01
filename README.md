@@ -4,7 +4,7 @@
 
 📍 Niterói, Rio de Janeiro, Brasil
 
-[LinkedIn](https://www.linkedin.com/in/luisfelipecontreras/) · [Currículo Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4856728T6) · [ORCID: 0009-0009-0387-0558](https://orcid.org/0009-0009-0387-0558)
+🌐 **[lftcontreras.github.io](https://lftcontreras.github.io)** · [ORCID](https://orcid.org/0009-0009-0387-0558) · [Google Scholar](https://scholar.google.com/citations?user=410-obMAAAAJ) · [RePEc](https://authors.repec.org/pro/pco1231/) · [Lattes](http://lattes.cnpq.br/1313195430227740) · [LinkedIn](https://www.linkedin.com/in/luisfelipecontreras/) · [CV (EN)](https://lftcontreras.github.io/cv.html)
 
 ## Sobre mim
 
@@ -20,6 +20,12 @@ Também participo de pesquisa sobre desenvolvimento regional no Centro-Oeste, no
 - Microssimulação e análise de microdados.
 - Indicadores socioeconômicos e desenvolvimento regional.
 - Finanças públicas e gestão pública.
+
+## Publicações e relatórios
+
+- Silva, M. A. X.; Machado, D. C.; Rios, F. M.; **Contreras, L. F. T.** (2026). *Raça, território e o custo temporal do deslocamento ao trabalho: evidências do Rio de Janeiro e de São Paulo*. 54º Encontro Nacional de Economia (ANPEC). Aceito.
+- Silva, M. A. X.; **Contreras, L. F. T.**; Machado, D. C. (2025). *Disparidades salariais por gênero e raça no setor público brasileiro: evidências de "chão pegajoso" e "teto de vidro"*. 53º Encontro Nacional de Economia (ANPEC).
+- Coautor de relatórios técnicos do Observatório UFF/SUDECO, incluindo o *Relatório Anual de Monitoramento da Política Nacional de Desenvolvimento Regional (PNDR)* (2026).
 
 ## Formação complementar selecionada
 
@@ -54,6 +60,12 @@ I also contribute to research on regional development in Brazil's Central-West r
 - Microsimulation and microdata analysis.
 - Socioeconomic indicators and regional development.
 - Public finance and public administration.
+
+### Papers and reports
+
+- Silva, M. A. X.; Machado, D. C.; Rios, F. M.; **Contreras, L. F. T.** (2026). *Race, territory and the time cost of commuting: evidence from Rio de Janeiro and São Paulo* (in Portuguese). 54th Brazilian Economics Meeting (ANPEC). Accepted.
+- Silva, M. A. X.; **Contreras, L. F. T.**; Machado, D. C. (2025). *Gender and racial pay gaps in Brazil's public sector: sticky floors and glass ceilings* (in Portuguese). 53rd Brazilian Economics Meeting (ANPEC).
+- Co-author of technical reports for the UFF/SUDECO Observatory, including the *Annual Monitoring Report of Brazil's National Regional Development Policy (PNDR)* (2026).
 
 ### Selected additional training
 
