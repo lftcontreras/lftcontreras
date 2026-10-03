@@ -6,6 +6,18 @@
 
 🌐 **[lftcontreras.github.io](https://lftcontreras.github.io)** · [ORCID](https://orcid.org/0009-0009-0387-0558) · [Google Scholar](https://scholar.google.com/citations?user=410-obMAAAAJ) · [RePEc](https://ideas.repec.org/f/pco1231.html) · [Lattes](http://lattes.cnpq.br/1313195430227740) · [LinkedIn](https://www.linkedin.com/in/luisfelipecontreras/) · [CV (EN)](https://lftcontreras.github.io/cv.html)
 
+## Identidade acadêmica
+
+Para manter meus registros acadêmicos consistentes entre plataformas, uso **Luis Felipe Tarouquela Contreras** como nome canônico.
+
+- **Site acadêmico:** https://lftcontreras.github.io/
+- **ORCID:** 0009-0009-0387-0558
+- **Google Scholar:** 410-obMAAAAJ
+- **RePEc Short-ID:** pco1231
+- **Lattes:** 1313195430227740
+- **LinkedIn:** /in/luisfelipecontreras/
+- **GitHub:** @lftcontreras
+
 ## Sobre mim
 
 Sou economista formado pela Universidade Federal Fluminense (UFF), mestrando em Economia no PPGE/UFF e pesquisador com atuação em tributação, desigualdade e desenvolvimento regional.
