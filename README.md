@@ -1,14 +1,14 @@
 # Luis Felipe Tarouquela Contreras
 
-**Economia aplicada | Análise de dados | Políticas públicas**
+**Economia aplicada | Incidência tributária | Microssimulação | Políticas públicas**
 
 📍 Niterói, Rio de Janeiro, Brasil
 
-🌐 **[lftcontreras.github.io](https://lftcontreras.github.io)** · [ORCID](https://orcid.org/0009-0009-0387-0558) · [Google Scholar](https://scholar.google.com/citations?user=410-obMAAAAJ) · [RePEc](https://authors.repec.org/pro/pco1231/) · [Lattes](http://lattes.cnpq.br/1313195430227740) · [LinkedIn](https://www.linkedin.com/in/luisfelipecontreras/) · [CV (EN)](https://lftcontreras.github.io/cv.html)
+🌐 **[lftcontreras.github.io](https://lftcontreras.github.io)** · [ORCID](https://orcid.org/0009-0009-0387-0558) · [Google Scholar](https://scholar.google.com/citations?user=410-obMAAAAJ) · [RePEc](https://ideas.repec.org/f/pco1231.html) · [Lattes](http://lattes.cnpq.br/1313195430227740) · [LinkedIn](https://www.linkedin.com/in/luisfelipecontreras/) · [CV (EN)](https://lftcontreras.github.io/cv.html)
 
 ## Sobre mim
 
-Sou economista formado pela Universidade Federal Fluminense (UFF), mestrando em Economia e pesquisador com atuação em tributação, desigualdade e desenvolvimento regional.
+Sou economista formado pela Universidade Federal Fluminense (UFF), mestrando em Economia no PPGE/UFF e pesquisador com atuação em tributação, desigualdade e desenvolvimento regional.
 
 Minha pesquisa de mestrado investiga os efeitos distributivos da reforma tributária sobre o consumo no Brasil, com foco em cashback tributário, cesta básica e microssimulação a partir da POF 2017–2018.
 
@@ -32,6 +32,11 @@ Também participo de pesquisa sobre desenvolvimento regional no Centro-Oeste, no
 - **Python básico, lógica de programação e modelagem de dados** — Fundação Bradesco, 2022.
 - **Introdução à Análise de Dados — Microsoft Power BI** — Fundação Bradesco, 2022.
 - **Gestão orçamentária e financeira** — Escola de Governo e Gestão de Niterói, 2022.
+
+## Portfólio de pesquisa
+
+- **[Laboratório de incidência tributária](https://lftcontreras.github.io/tax-incidence-lab/)** — ferramenta de pesquisa em desenvolvimento, com método documentado e painel de resultados agregados. As estimativas empíricas da dissertação ainda não estão incorporadas. [Código e documentação](https://github.com/lftcontreras/lftcontreras.github.io/tree/main/tax-incidence-lab).
+- **[Publicações e relatórios](https://lftcontreras.github.io/#publications)** — produção acadêmica e técnica, com indicação do status dos trabalhos.
 
 ## Objetivo deste espaço
 
@@ -72,6 +77,11 @@ I also contribute to research on regional development in Brazil's Central-West r
 - Basic Python, programming logic, and data modeling — Fundação Bradesco, 2022.
 - Introduction to Data Analysis with Microsoft Power BI — Fundação Bradesco, 2022.
 - Budgetary and financial management — Escola de Governo e Gestão de Niterói, 2022.
+
+### Research portfolio
+
+- **[Tax Incidence Lab](https://lftcontreras.github.io/tax-incidence-lab/en.html)** — research tool under development, with documented methods and an aggregate-results dashboard. Dissertation estimates are not yet included. [Code and documentation](https://github.com/lftcontreras/lftcontreras.github.io/tree/main/tax-incidence-lab).
+- **[Papers and reports](https://lftcontreras.github.io/#publications)** — academic and technical outputs, with publication status indicated.
 
 ### Purpose of this profile
 
