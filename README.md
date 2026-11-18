@@ -22,9 +22,9 @@ Para manter meus registros acadêmicos consistentes entre plataformas, uso **Lui
 
 Sou economista formado pela Universidade Federal Fluminense (UFF), mestrando em Economia no PPGE/UFF e pesquisador com atuação em tributação, desigualdade e desenvolvimento regional.
 
-Minha pesquisa de mestrado investiga os efeitos distributivos da reforma tributária sobre o consumo no Brasil, com foco em cashback tributário, cesta básica e microssimulação a partir da POF 2017–2018.
+Minha dissertação de mestrado, *Cashback tributário, cesta básica e regressividade remanescente: microssimulação dos efeitos distributivos da reforma tributária sobre o consumo no Brasil*, investiga os efeitos distributivos da reforma a partir da POF 2017–2018.
 
-Também participo de pesquisa sobre desenvolvimento regional no Centro-Oeste, no âmbito do projeto SUDECO/PNDR–PRDCO, e tenho experiência em administração pública municipal.
+Atualmente sou bolsista de pesquisa no projeto sobre pesca artesanal no Brasil (UFF/MAPA, 2026–atual), voltado à caracterização socioeconômica dos pescadores artesanais com dados do RGP, CadÚnico e PNAD Contínua, além de revisão bibliográfica. Participei do Observatório UFF/SUDECO (2025–2026), com pesquisas sobre desenvolvimento regional no Centro-Oeste. Atuo também na administração pública municipal, na Casa do Artesão de Niterói, vinculada à Secretaria Municipal das Culturas.
 
 ## Áreas de atuação e pesquisa
 
@@ -36,6 +36,7 @@ Também participo de pesquisa sobre desenvolvimento regional no Centro-Oeste, no
 ## Publicações e relatórios
 
 - Silva, M. A. X.; Machado, D. C.; Rios, F. M.; **Contreras, L. F. T.** (2026). *Raça, território e o custo temporal do deslocamento ao trabalho: evidências do Rio de Janeiro e de São Paulo*. 54º Encontro Nacional de Economia (ANPEC). Aceito.
+- Silva, M. A. X.; **Contreras, L. F. T.** (2026). *O custo temporal do deslocamento ao trabalho altera os diferenciais de remuneração por escolaridade? Evidências do Rio de Janeiro e de São Paulo*. 2º Encontro Panamericano de Economia da Educação, UFF, Niterói, 9–11 de novembro de 2026. Resumo aceito. [Programação](https://www.even3.com.br/aedebrasil-f862-426b-a7e3-11558c058ce7-726389/#2947206).
 - Silva, M. A. X.; **Contreras, L. F. T.**; Machado, D. C. (2025). *Disparidades salariais por gênero e raça no setor público brasileiro: evidências de "chão pegajoso" e "teto de vidro"*. 53º Encontro Nacional de Economia (ANPEC).
 - Coautor de relatórios técnicos do Observatório UFF/SUDECO, incluindo o *Relatório Anual de Monitoramento da Política Nacional de Desenvolvimento Regional (PNDR)* (2026).
 
@@ -67,9 +68,9 @@ Tenho interesse em colaborações acadêmicas e oportunidades profissionais em p
 
 I hold a bachelor's degree in Economics from Universidade Federal Fluminense (UFF), Brazil, and am currently pursuing a master's degree in Economics. My research interests include taxation, inequality, and regional development.
 
-My master's research examines the distributional effects of Brazil's consumption tax reform, focusing on tax cashback, the basic food basket, and microsimulation using the 2017–2018 Brazilian Household Budget Survey (POF).
+My master's dissertation, *Tax cashback, the basic food basket and residual regressivity: microsimulation of the distributional effects of Brazil's consumption tax reform*, uses the 2017–2018 Brazilian Household Budget Survey (POF).
 
-I also contribute to research on regional development in Brazil's Central-West region through the SUDECO/PNDR–PRDCO project and have experience in municipal public administration.
+I am currently a research fellow on artisanal fisheries in Brazil (UFF/MAPA, 2026–present), contributing to socioeconomic profiling of fishers using RGP, CadÚnico and PNAD Contínua data and to the literature review. I previously worked on regional development through the UFF/SUDECO Observatory (2025–2026). I also work in municipal public administration at the Casa do Artesão de Niterói, within the Municipal Secretariat of Cultures.
 
 ### Research interests
 
@@ -81,6 +82,7 @@ I also contribute to research on regional development in Brazil's Central-West r
 ### Papers and reports
 
 - Silva, M. A. X.; Machado, D. C.; Rios, F. M.; **Contreras, L. F. T.** (2026). *Race, territory and the time cost of commuting: evidence from Rio de Janeiro and São Paulo* (in Portuguese). 54th Brazilian Economics Meeting (ANPEC). Accepted.
+- Silva, M. A. X.; **Contreras, L. F. T.** (2026). *Does commuting time alter earnings differentials by education? Evidence from Rio de Janeiro and São Paulo* (in Portuguese). 2nd Pan-American Meeting on the Economics of Education, UFF, Niterói, November 9–11, 2026. Accepted abstract. [Conference program](https://www.even3.com.br/aedebrasil-f862-426b-a7e3-11558c058ce7-726389/#2947206).
 - Silva, M. A. X.; **Contreras, L. F. T.**; Machado, D. C. (2025). *Gender and racial pay gaps in Brazil's public sector: sticky floors and glass ceilings* (in Portuguese). 53rd Brazilian Economics Meeting (ANPEC).
 - Co-author of technical reports for the UFF/SUDECO Observatory, including the *Annual Monitoring Report of Brazil's National Regional Development Policy (PNDR)* (2026).
 
